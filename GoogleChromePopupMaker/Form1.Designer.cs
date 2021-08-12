@@ -142,7 +142,7 @@ namespace GoogleChromePopupMaker
 			// 
 			// txtPopupLink
 			// 
-			this.txtPopupLink.Location = new System.Drawing.Point(87, 70);
+			this.txtPopupLink.Location = new System.Drawing.Point(87, 71);
 			this.txtPopupLink.Name = "txtPopupLink";
 			this.txtPopupLink.Size = new System.Drawing.Size(286, 25);
 			this.txtPopupLink.TabIndex = 6;
